@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-08T17:29:11+09:00",
+  "timetableDate": "2026-10-08",
+  "files": {
+    "weekday.json.gz": {
+      "sha256": "842b944e7e0009e82852b77f92b5406e940f0a6b5eb857a10536743fe62045c7",
+      "size": 858093
+    },
+    "saturday.json.gz": {
+      "sha256": "2b5cf37e783428a62ffecdf76e87d2234650f257da6927c40acd81aef30fe4b2",
+      "size": 701966
+    },
+    "holiday.json.gz": {
+      "sha256": "dbbb92e259d5f6a449d0a1c00283ea668891f77f07321ac9acd68e3a49d966e2",
+      "size": 701929
+    },
+    "stations.json": {
+      "sha256": "896eeba14a15a467cae5f874e90eb523787cecc8ab071a35a8e6b5bd6de3b3c6",
+      "size": 48451
+    },
+    "holidays.json": {
+      "sha256": "3f0b4f770d5399feda7a5937b0ba35d156eb47224e8391ba907b21813ccb8516",
+      "size": 1639
+    }
+  }
+}
