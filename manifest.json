@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T04:05:38+09:00",
-  "timetableDate": "2026-10-26",
+  "generatedAt": "2026-11-02T07:20:34+09:00",
+  "timetableDate": "2026-11-02",
   "files": {
     "weekday.json.gz": {
-      "sha256": "ddbd6849cb83299c75634aab4832af538d82c962bc4802bb4ab40e4d81d6bcb8",
-      "size": 1890087
+      "sha256": "41f37c2c0bd11c41f76491ed23f5835edf5154dcb5f4ca65b4bc3d2cae940529",
+      "size": 1680537
     },
     "saturday.json.gz": {
-      "sha256": "fe0148d935f67476b3656da7f7fd2099524d2eeb36d05b43fffb539fb56cb9ed",
-      "size": 1571353
+      "sha256": "9ab960247c3d2137dc34d38d063ce6cacd9fc1ccea98c285a69a699788751407",
+      "size": 1380257
     },
     "holiday.json.gz": {
-      "sha256": "34d4d57c57515234f1da0bcedd699ccf88e35f918024614037ce4ae9623b50d9",
-      "size": 1571263
+      "sha256": "2aca8c898983bf960ac06429c6a72858b339b455e780a8cea2e356504842d122",
+      "size": 1380158
     },
     "stations.json": {
-      "sha256": "145170f9fa90ab9dc66cc3f8bbdff3362ed6cd284c317e93ba18208e00fa86c5",
-      "size": 110140
+      "sha256": "375470aa884c71c2a534ec473e1a4a17bc085ff9c59addc1a7ba65d525ebb5e8",
+      "size": 96412
     },
     "holidays.json": {
       "sha256": "3f0b4f770d5399feda7a5937b0ba35d156eb47224e8391ba907b21813ccb8516",
