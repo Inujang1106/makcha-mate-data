@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-08T23:27:14+09:00",
+  "files": {
+    "bus.json.gz": {
+      "sha256": "a4c1a44b7a681b1045cd9b371860c25a50aa55e544fe83d05e3d4020f735f5fe",
+      "size": 1851632
+    }
+  }
+}
